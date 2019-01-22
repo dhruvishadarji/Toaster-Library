@@ -1,0 +1,15 @@
+
+}squid:S1192V"aDefine a constant instead of duplicating this literal "Facebook authentication failed. " 3 times.(òÖûÌøÿÿÿÿ
+zsquid:S1192W"cDefine a constant instead of duplicating this literal "Please check internet connection. " 3 times.(óä–“
+_squid:S1192X"HDefine a constant instead of duplicating this literal "Error: " 3 times.(ëò¿’
+]squid:S1192#"FDefine a constant instead of duplicating this literal "email" 3 times.(¼ğ
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(­¡šÑşÿÿÿÿ
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(œ´åúÿÿÿÿ
+bsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(ˆ¼Ş
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(Õ¹ü¾ÿÿÿÿÿ
+isquid:S00117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–•¼
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈëÂÅıÿÿÿÿ
+jsquid:S00117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ–•¼
+?squid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¤"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±

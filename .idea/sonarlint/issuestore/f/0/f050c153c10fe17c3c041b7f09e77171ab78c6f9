@@ -1,0 +1,6 @@
+
+qsquid:S00116"ZRename this field "profile_pic_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¡ªS
+rsquid:S00116"[Rename this field "profile_pic_data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¡ªS
+Dsquid:S1659".Declare "profile_pic_data" on a separate line.(£¡ªS
+Csquid:S1659"-Declare "profile_pic_url" on a separate line.(£¡ªS
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ä¡‹ûÿÿÿÿ
